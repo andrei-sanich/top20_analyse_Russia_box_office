@@ -1,5 +1,4 @@
 from source import WebSource
-import pickle
 import pandas as pd
 
 def main():
